@@ -1,4 +1,5 @@
 # Hi, I’m Scherkeira 👋
+Passionate about building scalable, user-friendly web applications.
 
 💻 Aspiring Full Stack Developer  
 🎓 Detroit School of Digital Technology (2026)  
